@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Valentín</h1>`
+<h1 align="center">¡Hola! 👋 Soy Valentín</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas</h3>
 
 ---
